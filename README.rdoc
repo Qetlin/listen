@@ -1,6 +1,6 @@
 == README
 
-This is the Listen Up" app I've been developing in my BEWD class at GA.
+This is the "Listen Up" app I've been developing in my BEWD class at GA.
 
 Things you may want to cover:
 
