@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Listen Up" app I've been developing in my BEWD class at GA.
 
 Things you may want to cover:
 
